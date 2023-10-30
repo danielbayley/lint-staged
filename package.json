@@ -40,7 +40,6 @@
     "commander": "11.1.0",
     "debug": "4.3.4",
     "execa": "8.0.1",
-    "json5": "2.2.3",
     "lilconfig": "2.1.0",
     "listr2": "7.0.2",
     "micromatch": "4.0.5",
